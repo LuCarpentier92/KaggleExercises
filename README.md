@@ -1,9 +1,10 @@
+
 # Kaggle Exercises
 
-## Présentation
-Ce dépôt regroupe divers exercices issus de projets Kaggle, réalisés pour perfectionner les compétences en science des données et en machine learning. Chaque dossier représente un exercice spécifique, couvrant des aspects variés comme l'analyse exploratoire, le nettoyage des données, la création de modèles prédictifs, et l'évaluation de leur performance.
+## Overview
+This repository contains various exercises from Kaggle projects, aimed at improving skills in data science and machine learning. Each folder represents a specific exercise, covering different aspects such as exploratory analysis, data cleaning, predictive model creation, and performance evaluation.
 
-## Objectifs
-- Renforcer les compétences en manipulation et en analyse de données.
-- Mettre en pratique différentes techniques de machine learning.
-- Expérimenter avec des datasets réels pour comprendre les défis de la modélisation.
+## Objectives
+- Strengthen skills in data manipulation and analysis.
+- Practice different machine learning techniques.
+- Experiment with real-world datasets to understand the challenges of modeling.

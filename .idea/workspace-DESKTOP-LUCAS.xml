@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1f10e3d2-bfac-46ce-823f-20e00258359d" name="Changes" comment="finished cleaning and optimized : scored 0.799 on kaggle with RandomForest">
       <change beforePath="$PROJECT_DIR$/.idea/Examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Examples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,8 +89,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
-        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+        <option value="bundled-python-sdk-7a29c1521ef0-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.298" />
       </set>
     </attachedChunks>
   </component>
@@ -119,7 +119,7 @@
       <workItem from="1732106039910" duration="662000" />
       <workItem from="1732107095837" duration="9312000" />
       <workItem from="1732138066230" duration="333000" />
-      <workItem from="1732568643657" duration="10000" />
+      <workItem from="1732280705677" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="cleaned dataset, ready to be trained">
       <option name="closed" value="true" />
